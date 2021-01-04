@@ -32,6 +32,9 @@ The make command will open the login/signup window
 			/>
 		</td>
 	</tr>
+	
+</table>
+<table>
 	<tr>
 		<td>
 			<img
