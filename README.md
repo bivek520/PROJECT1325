@@ -52,5 +52,5 @@ The make command will open the login/signup window
 ####   Team Members
 - Bishesh Pote
 - Bivek Shrestha
-- Pramit Bhusal
+- Pramit Bhusal(@bhpramit)
 - Nabin Panthi
