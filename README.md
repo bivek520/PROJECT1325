@@ -16,7 +16,7 @@ The make command will open the login/signup window
 				alt="signup/signin"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.03.46%20PM.png"
             />
-            <figcaption>Login and Signup page</figcaption>
+            <figcaption>Login and Signup Window</figcaption>
 		</td>
 		<td>
 			<img
@@ -24,15 +24,15 @@ The make command will open the login/signup window
 				alt="landing"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.07.39%20PM.png"
             />
-            <figcaption>User landing page</figcaption>
+            <figcaption>User landing window</figcaption>
 		</td>
 		<td>
 			<img
-				width="400"
+				width="350"
 				alt="different user same group"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.08.50%20PM.png"
             />
-            <figcaption>Landing page for different user of same group</figcaption>
+            <figcaption>Landing window for different user of same group</figcaption>
 		</td>
 	</tr>
 </table>
@@ -44,6 +44,7 @@ The make command will open the login/signup window
 				alt="different user same group"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.10.19%20PM.png"
 			/>
+			<figcaption>Landing window for another user of same group with <b>Pay</b> and <b>Details</b> tab</figcaption>
 		</td>
 	</tr>
 </table>
