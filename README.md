@@ -12,21 +12,21 @@ The make command will open the login/signup window
 	<tr>
 		<td>
 			<img
-				width="100"
+				width="300"
 				alt="signup/signin"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.03.46%20PM.png"
 			/>
 		</td>
 		<td>
 			<img
-				width="100"
+				width="300"
 				alt="different user same group"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.08.50%20PM.png"
 			/>
 		</td>
 		<td>
 			<img
-				width="100"
+				width="300"
 				alt="different user same group"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.08.50%20PM.png"
 			/>
@@ -35,7 +35,7 @@ The make command will open the login/signup window
 	<tr>
 		<td>
 			<img
-				width="100"
+				width="600"
 				alt="different user same group"
 				src="https://github.com/bivek520/SplitApp/blob/master/App_Screenshots/Screen%20Shot%202021-01-04%20at%201.10.19%20PM.png"
 			/>
