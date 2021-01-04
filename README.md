@@ -1,8 +1,15 @@
-# PROJECT1325
+# SplitApp
+<p>
+This program simplifies splitting bill between roommates, groups, friends and family.
+</p>
 
-This is the readme file.
-
-Please do a pull request before commiting to master file
-
-
-TESTING 1
+#### Compile and Run 
+```bash
+make
+```
+The make command will open the login/signup window``
+####   Team Members
+- Bishesh Pote
+- Bivek Shrestha
+- Pramit Bhusal
+- Nabin Panthi
